@@ -1,0 +1,1 @@
+let yourArray = ["smile", 15, "eye" , false , 9]; // Change this line
